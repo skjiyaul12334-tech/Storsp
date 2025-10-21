@@ -1,0 +1,5 @@
+{
+  "name": "eCommerce App",
+  "description": "A modern and user-friendly eCommerce application built with React and Tailwind CSS, featuring product browsing, cart management, order tracking, and a wishlist.",
+  "requestFramePermissions": []
+}
